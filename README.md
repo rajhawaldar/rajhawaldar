@@ -19,9 +19,6 @@ In my spare time, I enjoy reading tech blogs and watching YouTube videos. Apart
 - [Angular Modules](https://dev.to/rajhawaldar/angular-module-and-types-50kf)
 <!-- BLOG-POST-LIST:END -->
 <br>
-
-
-
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rajhawaldar)   -->
 
 ### 💻 Languages and Tools: 🛠️<br>
