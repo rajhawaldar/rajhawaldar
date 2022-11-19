@@ -12,6 +12,11 @@ I am here to open source and do experiments. I am a post graduate from Pune Uni
 In my spare time, I enjoy reading tech blogs and watching YouTube videos. Apart from that, I love to guide and mentor newbies 👨🏻‍💻.
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why chrome shows so many processes in Task Manager for only one tab?](https://dev.to/rajhawaldar/why-chrome-shows-so-many-process-in-task-manager-for-only-one-tab-1j56)
+- [let&#39;s understand git diff](https://dev.to/rajhawaldar/lets-try-to-understand-git-diff-56l6)
+- [Updating to the latest version of Azure DevOps Server from TFS 2018](https://dev.to/rajhawaldar/updating-to-the-latest-version-of-azure-devops-server-from-tfs-2018-5a29)
+- [Use Git Hooks to ease your development workflow](https://dev.to/rajhawaldar/use-git-hooks-to-ease-your-development-workflow-2ijh)
+- [Angular Modules](https://dev.to/rajhawaldar/angular-module-and-types-50kf)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
