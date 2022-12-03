@@ -29,8 +29,8 @@ In my spare time, I enjoy reading tech blogs and watching YouTube videos. Apart
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rajhawaldar)   -->
 
 
-[![Raj Hawaldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajhawaldar&show_icons=true&theme=radical)](https://github.com/rajhawaldar/github-readme-stats) &nbsp;&nbsp; [![Raj Hawaldar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajhawaldar&langs_count=10&theme=radical&layout=compact)](https://github.com/rajhawaldar/github-readme-stats)
-
+<!-- [![Raj Hawaldar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajhawaldar&show_icons=true&theme=radical)](https://github.com/rajhawaldar/github-readme-stats) &nbsp;&nbsp ;-->
+ [![Raj Hawaldar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajhawaldar&langs_count=10&theme=radical&layout=compact)](https://github.com/rajhawaldar/github-readme-stats) 
 
 If you want to support my work, <a href="https://www.buymeacoffee.com/rajhawaldar" target="_blank">Buy Me A Coffee !</a>
 
