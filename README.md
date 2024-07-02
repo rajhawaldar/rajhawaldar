@@ -6,7 +6,7 @@ I am here to open source and do experiments. I am a post graduate from Pune Uni
 
 In my spare time, I enjoy reading tech blogs and YouTube Surfing. Apart from that, I love to guide and mentor newbies.
 
-I work with **Linux, Bash Scripting, Docker, Kubernetes, Helm, Azure Cloud Services, Go, Git, GitHub Actions, **. 
+I work with **Linux, Bash Scripting, Docker, Kubernetes, Helm, Azure Cloud Services, Go, Git, GitHub Actions**. 
 
 If you like what i do, may be consider buying me a coffee 🥺👉👈
 
