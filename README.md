@@ -7,7 +7,4 @@ I work with **Linux, Bash Scripting, Docker, Kubernetes, Helm, Azure Cloud Servi
 
 In my spare time, I enjoy reading tech blogs and YouTube Surfing. Apart from that, I love to guide and mentor newbies.
 
-If you like what i do, you can support me  <a href="https://www.buymeacoffee.com/rajhawaldar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>  🥺👉👈
-<hr>
-
-How to reach me: **[Linkedin](https://www.linkedin.com/in/rajhawaldar/), [Twitter](https://twitter.com/HawaldarRaj), [Topmate](https://topmate.io/rajhawaldar), [Stack Overflow](https://stackoverflow.com/users/8898011/raj-hawaldar), [Medium](https://medium.com/@rajhawaldar)**
+How to reach me: **[Linkedin](https://www.linkedin.com/in/rajhawaldar/), [Twitter](https://twitter.com/HawaldarRaj), [Stack Overflow](https://stackoverflow.com/users/8898011/raj-hawaldar), [Medium](https://medium.com/@rajhawaldar)**
