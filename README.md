@@ -7,4 +7,4 @@ I work with **Linux, Bash Scripting, Docker, Kubernetes, Helm, Azure Cloud Servi
 
 In my spare time, I enjoy reading tech blogs and YouTube Surfing. Apart from that, I love to guide and mentor newbies.
 
-How to reach me: **[Linkedin](https://www.linkedin.com/in/rajhawaldar/), [Twitter](https://twitter.com/HawaldarRaj), [Stack Overflow](https://stackoverflow.com/users/8898011/raj-hawaldar), [Medium](https://medium.com/@rajhawaldar)**
+How to reach me: **[Linkedin](https://www.linkedin.com/in/rajhawaldar/), [Stack Overflow](https://stackoverflow.com/users/8898011/raj-hawaldar), [Medium](https://medium.com/@rajhawaldar)**
